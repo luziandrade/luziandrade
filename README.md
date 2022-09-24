@@ -1,16 +1,40 @@
+
+
+-----
 ### Hi there 👋
 
-<!--
-**luziandrade/luziandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/luana-andrade/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+   <img src="https://komarev.com/ghpvc/?username=luziandrade&style=flat-square&color=blue" alt=""/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+I am Luana a Full Stack Developer from Brazil.
+- :telescope: I’m working as a Technical Customer Speclist Support at AWS.
+
+- :seedling: I’m currently learning NextJS.
+
+- :zap: In my free time, I play games and knit.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+
+---
+
+### :fire: My Stats :
+
+
+---
+
+
