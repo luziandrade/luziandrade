@@ -57,9 +57,9 @@ I am Luana a Full Stack Developer from Brazil.
 
 ---
 
-### :fire: My Stats :
+### :fire: Most Used Languages :
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luziandrade&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
