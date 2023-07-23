@@ -18,8 +18,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am Luana a Full Stack Developer from Brazil.
-- :telescope: I’m working as a Technical Customer Speclist Support at AWS.
+I am Luana a Back End Developer from Brazil.
+- :telescope: I’m working as an Associate Software Engineer at Optum.
 
 - :seedling: I’m currently learning NextJS.
 
